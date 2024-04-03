@@ -124,13 +124,13 @@ frozenlist = ">=1.1.0"
 
 [[package]]
 name = "aiosmtpd"
-version = "1.4.2"
+version = "1.4.5"
 description = "aiosmtpd - asyncio based SMTP server"
 optional = false
-python-versions = "~=3.6"
+python-versions = ">=3.8"
 files = [
-    {file = "aiosmtpd-1.4.2-py3-none-any.whl", hash = "sha256:314f70b74cb8474882cef396b186fbfad8660c7b52be5c1937f3c31df14232a4"},
-    {file = "aiosmtpd-1.4.2.tar.gz", hash = "sha256:aa891d010d2097274189078c6ce2a59a167f3fb2e974e028b572a61e92e1549c"},
+    {file = "aiosmtpd-1.4.5-py3-none-any.whl", hash = "sha256:a196922f1903e54c4d37c53415b7613056d39e2b1e8249f324b9ee7a439be0f1"},
+    {file = "aiosmtpd-1.4.5.tar.gz", hash = "sha256:78d7b14f859ad0e6de252b47f9cf1ca6f1c82a8b0f10a9e39bec7e915a6aa5fe"},
 ]
 
 [package.dependencies]
