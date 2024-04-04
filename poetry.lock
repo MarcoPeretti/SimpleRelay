@@ -1945,13 +1945,13 @@ infinite-tracing = ["grpcio", "protobuf"]
 
 [[package]]
 name = "newrelic-telemetry-sdk"
-version = "0.5.0"
+version = "0.5.1"
 description = "New Relic Telemetry SDK"
 optional = false
 python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,!=3.6.*,>=2.7"
 files = [
-    {file = "newrelic-telemetry-sdk-0.5.0.tar.gz", hash = "sha256:461ba12a54f3c44e85e89343d99f66228b4d4703cd2808cefc8fc0b83c97e4e7"},
-    {file = "newrelic_telemetry_sdk-0.5.0-py2.py3-none-any.whl", hash = "sha256:f7087b2d5a3d0e686532ae3dceaffcfb8e1bb4d372d598071438631c0c8af37b"},
+    {file = "newrelic-telemetry-sdk-0.5.1.tar.gz", hash = "sha256:f21b1f27ec4420dc3de6570e520af65ee67ed995c58d6a2fb404f9410283f300"},
+    {file = "newrelic_telemetry_sdk-0.5.1-py2.py3-none-any.whl", hash = "sha256:5cf27cfcb793b0fd1b6b4eb6834f6eab556fcb9fdf7459785d1b0e2fa3eb9c0d"},
 ]
 
 [package.dependencies]
